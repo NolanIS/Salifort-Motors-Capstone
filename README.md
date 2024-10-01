@@ -13,7 +13,7 @@ The business scenario for this project involved performing data analysis for the
 The goal of this project is to answer the question "what is likely to make employees leave the company?" 
 We are asked to determine an answer to this question by analyzing the data provided by the HR department (public domain on kaggle)
 and build a machine learning model that can predict if an employee will leave or not. 
-We were given a choice as to what kind of model we could use. I used a logistic regression model using XGBoost.
+We were given a choice as to what kind of model we could use. I used a XGBoost classification model with a binary logistic objective function.
 
 ### Deliverables:
 - The completed jupyter notebook
